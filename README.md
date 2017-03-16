@@ -1,0 +1,2 @@
+# katsushika_mapping_tool
+葛飾区の白地図に数値データをマッピングしてグラデーションする
