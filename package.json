@@ -1,0 +1,29 @@
+{
+  "name": "katsushika_mapping_tool",
+  "version": "0.1.0",
+  "description": "葛飾区の白地図に数値データをマッピングしてグラデーションする",
+  "main": "script.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miraiken/katsushika_mapping_tool.git"
+  },
+  "author": "東京理科大学みらい研究室 <miraken-rika@gmail.com> (https://github.com/miraiken)",
+  "contributors": [
+    "yumetodo <yume-wikijp@live.jp> (https://github.com/yumetodo)"
+  ],
+  "license": "SEE LICENSE IN LICENSE.md",
+  "bugs": {
+    "url": "https://github.com/miraiken/katsushika_mapping_tool/issues"
+  },
+  "homepage": "https://github.com/miraiken/katsushika_mapping_tool#readme",
+  "devDependencies": {
+    "ava": "^0.18.2",
+    "eslint": "^3.18.0"
+  }
+}
