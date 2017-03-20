@@ -64,6 +64,7 @@
 		"no-magic-numbers":            "off",
 		"no-mixed-operators":          "off",
 		"no-mixed-spaces-and-tabs":    "off",
+		"no-negated-condition":        "off",
 		"no-nested-ternary":           "off",
 		"no-plusplus":                 "off",
 		"no-process-env":              "off",
@@ -79,9 +80,10 @@
 		"one-var":                     ["warn", "never"],
 		"operator-linebreak":          [
 			"warn", "after",
-			{"overrides": {"?": "before", ":": "before"}}
+			{"overrides": {"?": "before", ":": "before", "&&": "before", "||": "before"}}
 		],
 		"padded-blocks":               ["warn", "never"],
+		"prefer-destructuring":        "off",
 		"prefer-template":             "off",
 		"quotes": ["error", "double", { "allowTemplateLiterals": true }],
 		"quote-props":                 "off",
