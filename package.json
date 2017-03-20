@@ -24,6 +24,7 @@
   "homepage": "https://github.com/miraiken/katsushika_mapping_tool#readme",
   "devDependencies": {
     "ava": "^0.18.2",
+    "equals": "^1.0.5",
     "eslint": "^3.18.0"
   }
 }
