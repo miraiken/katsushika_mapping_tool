@@ -1,0 +1,5 @@
+#input_box {
+    overflow-y: scroll;
+    height: 150px;
+    resize: none;
+}
