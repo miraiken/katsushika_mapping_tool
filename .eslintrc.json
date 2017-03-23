@@ -20,6 +20,7 @@
 		"complexity":                  "off",
 		"consistent-return":           "off",
 		"curly":                       ["error", "multi-line"],
+		"dot-location":                ["warn", "property"],
 		"eqeqeq":                      "off",
 		"func-name-matching":          ["warn", "never"],
 		"func-names":                  ["warn", "never"],
